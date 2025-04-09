@@ -6,6 +6,7 @@ I'm Ronson
 
 - <b>Basic Web Development and SQL </b>
   - [FightFinder](https://github.com/ronsonson/FightFinder)
+      - <p> A Web application for organizing and storing information for fighting game tournaments </p>
 - <b>Full Stack Web App (React, NodeJS, Python, Flask)</b>
    <p> I am currently working on a cloud based web application for optimizing stock trading algorithms. Unfortunately I can't share it on here but some technologies and libraries used include: JavaScript, React, Flask, Yfinance, Backtesting.py, and SQL </p>
 - <b>Other Projects</b>
