@@ -12,6 +12,6 @@ I'm Ronson
   - [Recipe Returner](https://github.com/ronsonson/Recipe-Returner)
      - <p> Created to pratice using a microservice architecture. A text based program to provide suggestions for what meals to make given a set of ingredients to use. </p>
 
-<h2> My blog!</h2>
-<b>[CS Adventures!](https://blogs.oregonstate.edu/imfeldr/)</b>
-  
+- <b>My Blog!</b>
+  - [CS Adventures!](https://blogs.oregonstate.edu/imfeldr/)
+   
